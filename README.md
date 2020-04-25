@@ -7,4 +7,6 @@ Tic Tac Toe Game
 
 2-Download minified cdn from above url.
 
-3-Then Enjoy Tic Tac Toe Game.
+3-Then paste jquery-3.4.1.min.js ïn cloning folder.
+
+4-Then Enjoy Tic Tac Toe Game.
